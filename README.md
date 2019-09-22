@@ -2,7 +2,7 @@
 
 # CKFinder 3 Package for Laravel 5.5+ [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKFinder%20package%20for%20Laravel%20&url=https://github.com/ckfinder/ckfinder-laravel-package)
 
-[![Laravel version](https://img.shields.io/badge/Laravel-5.5%2C%205.6-green.svg)]()
+[![Laravel version](https://img.shields.io/badge/Laravel-5.5%2C%205.6%2C%206.0-green.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Packagist](https://img.shields.io/packagist/v/ckfinder/ckfinder-laravel-package.svg)](https://packagist.org/packages/ckfinder/ckfinder-laravel-package)
 [![Packagist](https://img.shields.io/packagist/dt/ckfinder/ckfinder-laravel-package.svg)](https://packagist.org/packages/ckfinder/ckfinder-laravel-package)
